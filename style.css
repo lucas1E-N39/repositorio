@@ -3,6 +3,7 @@ body {
 }
 h1 {
     text-align: center;
+    background: #034444;
     border: 20px solid #ffffff;
     padding-top: 30px;
     margin: 50px;
@@ -28,10 +29,18 @@ strong {
     font-style: italic
 }
 
+h2 {
+    text-align: center;
+}
+
 li {
+    text-align: center;
     font-size: 50px;
 }
 
 .bbbbbbbbbbbbbbb {
     background: #034444;
+    border: 10px solid #ffffff;
+    padding-top: 30px;
+    margin: 50px;
 }
