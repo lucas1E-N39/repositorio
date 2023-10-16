@@ -1,15 +1,22 @@
 body {
-    background: #343838
+    background: #808080
+}
+img {
+    width: 50%; 
+    margin: 500px;
+    margin-top: auto;
+    border: solid black 10px 
 }
 h1 {
+    font-family: 'Trebuchet MS';
     text-align: center;
-    background: #034444;
-    border: 20px solid #ffffff;
+    background: #808080;
     padding-top: 30px;
-    margin: 50px;
+    margin: auto;
 }
 
 p {
+    
     font-size: 50px;
 }
 
@@ -18,11 +25,11 @@ h2 {
 }
 
 strong {
-    color: burlywood
+    color: rgb(0, 0, 0)
 }
 
 #dfdgasdgfvcb {
-    color: brown
+    color: black
 }
 
 .itens {
@@ -39,8 +46,7 @@ li {
 }
 
 .bbbbbbbbbbbbbbb {
-    background: #034444;
-    border: 10px solid #ffffff;
+    background: #808080;
     padding-top: 30px;
     margin: 50px;
 }
